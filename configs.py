@@ -5,16 +5,16 @@
 import os 
   
 class Config(object): 
-         BOT_TOKEN = os.environ.get("BOT_TOKEN","6586439577:AAERjnKohzK6QBOs01WbVcSUjiY0sUwvsVk") 
+         BOT_TOKEN = os.environ.get("BOT_TOKEN","6646979040:AAEFeP64V3U-NFcadq2k68GML8g6M0B5f4Q") 
          API_ID = int(os.environ.get("API_ID", "16621664")) 
          API_HASH = os.environ.get("API_HASH","8b283f2943729318995738b5963f0bcc") 
          STREAMTAPE_API_PASS = os.environ.get("STREAMTAPE_API_PASS", "NoNeed") 
          STREAMTAPE_API_USERNAME = os.environ.get("STREAMTAPE_API_USERNAME", "NoNeed") 
-         LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL","-1001976098815")) 
+         LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL","-1001996148537")) 
          UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None) 
          DOWN_PATH = os.environ.get("DOWN_PATH", "./downloads") 
          PRESET = os.environ.get("PRESET", "ultrafast") 
-         OWNER_ID = int(os.environ.get("OWNER_ID", "6561715152")) 
+         OWNER_ID = int(os.environ.get("OWNER_ID", "6488346050")) 
          CAPTION = "By @Srikanth18" 
          BOT_USERNAME = os.environ.get("BOT_USERNAME", "VideoWatermarkme_Bot") 
          DATABASE_URL = os.environ.get("DATABASE_URL","mongodb+srv://Shashanklsss:shashank.ls1324@cluster0.rpvm8q5.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp") 
